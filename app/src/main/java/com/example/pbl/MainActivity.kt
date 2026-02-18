@@ -13,8 +13,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
-import com.example.pbl.feature.auth.ui.LoginViewModel
-import com.example.pbl.feature.home.ui.HomeScreen
+import com.example.pbl.presentation.login.LoginViewModel
+import com.example.pbl.presentation.home.HomeScreen
 import com.example.pbl.ui.theme.PblTheme
 
 class MainActivity : ComponentActivity() {

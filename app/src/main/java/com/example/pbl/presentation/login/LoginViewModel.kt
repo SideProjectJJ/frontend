@@ -1,10 +1,10 @@
-package com.example.pbl.feature.auth.ui
+package com.example.pbl.presentation.login
 import android.util.Log
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.pbl.feature.auth.data.request.SocialLoginRequest
-import com.example.pbl.feature.auth.repository.AuthRepository
+import com.example.pbl.data.auth.SocialLoginRequest
+import com.example.pbl.data.auth.AuthRepository
 import kotlinx.coroutines.launch
 
 class LoginViewModel : ViewModel() {

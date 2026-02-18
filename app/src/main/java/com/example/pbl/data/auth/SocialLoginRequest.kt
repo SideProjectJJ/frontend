@@ -1,4 +1,4 @@
-package com.example.pbl.feature.auth.data.request
+package com.example.pbl.data.auth
 
 data class SocialLoginRequest(
     val accessToken: String,

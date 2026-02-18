@@ -1,4 +1,4 @@
-package com.example.pbl.feature.home.ui
+package com.example.pbl.presentation.home
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box

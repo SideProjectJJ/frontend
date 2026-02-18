@@ -1,4 +1,4 @@
-package com.example.pbl.feature.auth.data.response
+package com.example.pbl.data.auth
 
 data class AuthTokenResponse(
     val accessToken: String

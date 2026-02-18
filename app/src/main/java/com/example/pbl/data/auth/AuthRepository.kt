@@ -1,9 +1,7 @@
-package com.example.pbl.feature.auth.repository
-
+package com.example.pbl.data.auth
 
 import com.example.pbl.core.network.ApiClient
-import com.example.pbl.feature.auth.data.request.SocialLoginRequest
-
+import com.example.pbl.data.auth.SocialLoginRequest
 
 class AuthRepository {
 

@@ -1,4 +1,4 @@
-package com.example.pbl.feature.home
+package com.example.pbl.data.common
 
 data class RecordItem(
     val title: String,
