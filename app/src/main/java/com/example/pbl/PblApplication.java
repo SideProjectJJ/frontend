@@ -11,4 +11,3 @@ public class PblApplication extends Application {
         KakaoSdk.init(this, BuildConfig.KAKAO_NATIVE_KEY);
     }
 }
-
