@@ -1,11 +1,11 @@
-package com.example.pbl.feature.home.ui
+package com.example.pbl.presentation.home
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.unit.dp
 import com.example.pbl.R
-import com.example.pbl.feature.home.RecordItem
+import com.example.pbl.data.common.RecordItem
 
 @Composable
 fun RecentList() {

@@ -1,8 +1,7 @@
-package com.example.pbl.feature.home.ui
+package com.example.pbl.presentation.home
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -26,8 +25,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.pbl.R
-import com.example.pbl.feature.home.RecordItem
+import com.example.pbl.data.common.RecordItem
 
 @Composable
 fun RecordCard(item: RecordItem) {
